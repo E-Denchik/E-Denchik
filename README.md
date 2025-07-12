@@ -21,22 +21,6 @@ I am a 💻 developer and Computer Science student passionate about building use
 
 ---
 
-## ✨ Featured Projects
-
-📌 **VeloDriveSim**  
-*A driving simulator using Vulkan, Bullet Physics, and Dear ImGui.*  
-[🔗 Repository](https://github.com/E-Denchik/VeloDriveSim)
-
-📌 **GrocerEase**  
-*A supermarket management system built with Java and PostgreSQL.*  
-[🔗 Repository](https://github.com/E-Denchik/GrocerEase)
-
-📌 **Assembler Invaders**  
-*A retro-style Space Invaders arcade game in Assembler.*  
-[🔗 Repository](https://github.com/E-Denchik/AssemblerInvaders)
-
----
-
 ## 📝 Latest Articles
 
 - [How to Start a Vulkan Project](#)
@@ -69,8 +53,7 @@ I am a 💻 developer and Computer Science student passionate about building use
 
 ## 📫 How to Reach Me
 
-- 📧 Email: *deniz@example.com*
-- 💼 LinkedIn: [My Profile](#)
+- 💼 LinkedIn: [My Profile](#https://www.linkedin.com/in/deniz-e-79bb5b234?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 - 🌐 Portfolio: *Coming soon*
 
 ---
