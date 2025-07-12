@@ -17,7 +17,7 @@ I am a 💻 developer and Computer Science student passionate about building use
 
 ## 🔨 Tech Stack & Tools
 
-<img src="https://skillicons.dev/icons?i=java,cpp,python,js,react,html,css,postgres,vscode,git,linux" alt="Tech Stack" />
+<img src="https://skillicons.dev/icons?i=java,cpp,c,python,js,react,html,css,postgres,vscode,git,Linux,cisco" alt="Tech Stack" />
 
 ---
 
